@@ -17,6 +17,11 @@ software which enables the use of this currency.
 For more information, as well as an immediately useable, binary version of
 the Yodacoin Core software, see [https://yodacoin.org](https://yodacoin.org).
 
+
+
+Discord Link: https://discord.gg/P5dzVQGaKQ
+
+
 License
 -------
 
