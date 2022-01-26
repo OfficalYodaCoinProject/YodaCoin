@@ -17,7 +17,18 @@ software which enables the use of this currency.
 For more information, as well as an immediately useable, binary version of
 the Yodacoin Core software, see [https://yodacoin.org](https://yodacoin.org).
 
+POOL INFORMATION
+-----------------
+The pool front end is currently not working however, mining and receiving coins from the pool is fully functional mined coins will appear every 15 mins, min payout amount is 200 coins. 
 
+To setup a miner for the pool:
+use these settings for your miner config file:
+"url" : "stratum+tcp://51.195.219.198:13333",
+"user" : "YOUR WALLET RECIEVE ADDRESS",
+"pass" : ""
+
+DISCORD INFORMATION
+------------------
 
 Discord Link: https://discord.gg/P5dzVQGaKQ
 
