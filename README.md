@@ -19,7 +19,10 @@ the Yodacoin Core software, see [https://yodacoin.org](https://yodacoin.org).
 
 POOL INFORMATION
 -----------------
-The pool front end is currently not working however, mining and receiving coins from the pool is fully functional mined coins will appear every 15 mins, min payout amount is 200 coins. 
+
+http://51.195.219.198/getting_started
+
+Mined coins will appear every 15 mins, min payout amount is 200 coins. 
 
 To setup a miner for the pool:
 use these settings for your miner config file:
