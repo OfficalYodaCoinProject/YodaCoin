@@ -120,7 +120,7 @@ public:
         // This is fine at runtime as we'll fall back to using them as a oneshot if they don't support the
         // service bits we want, but we should get them updated to support all service bits wanted by any
         // release ASAP to avoid it where possible.
-        vSeeds.emplace_back("seeder.yodacoin.space");
+        vSeeds.emplace_back("yodacoin.space");
         //vSeeds.emplace_back("dnsseed.thrasher.io");
         //vSeeds.emplace_back("dnsseed.yodacointools.com");
         //vSeeds.emplace_back("dnsseed.yodacoinpool.org");
